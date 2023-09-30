@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 const arrImput = document.querySelector('#validation-input');
 arrImput.addEventListener('blur', arrNewInput);
@@ -17,3 +18,12 @@ function arrNewInput(event) {
 }
 
 
+=======
+const typeInput = document.querySelector("#validatoin-input");
+
+function (event) { 
+   const evInput = 
+   
+    swith
+}
+>>>>>>> Stashed changes
