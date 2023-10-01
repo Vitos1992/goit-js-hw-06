@@ -24,4 +24,3 @@ const galleryImg = images
 
 imgGallery.insertAdjacentHTML("beforeend", galleryImg);
 
-const 

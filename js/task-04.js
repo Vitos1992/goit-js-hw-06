@@ -10,7 +10,7 @@ const decrementOnClick = (event) => {
 };
 
 const incrementOnClick = (event) => {
-  counterValue -= 1;
+  counterValue += 1;
   valueBtn.textContent = counterValue;
 };
 
